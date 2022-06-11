@@ -3,7 +3,7 @@ CXX = gcc
 OBJ_DIR = obj
 
 # INCPATH =
-LIBPATH = -L/usr/lib/x86_64-linux-gnu -lpthread
+LIBPATH = -lpthread
 
 TARGET := execProgram
 
